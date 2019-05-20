@@ -2442,9 +2442,9 @@ input, select, textarea {
 		input[type="button"].fit,
 		button.fit,
 		.button.fit {
-			width: 130%;
-			
-		}
+			width: 70%;
+			margin-left: 200px;
+			}
 
 		input[type="submit"].small,
 		input[type="reset"].small,
@@ -2639,7 +2639,9 @@ input, select, textarea {
 			}
 
 /* Spotlight */
-
+.signup {
+	height: 600px;
+}
 	.spotlight {
 		-moz-align-items: center;
 		-webkit-align-items: center;
